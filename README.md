@@ -1,9 +1,6 @@
 
 # Tessia–E3 - Bot Chat Messenger
 
-  
-
-![Tessia–E3 Banner](https://raw.githubusercontent.com/1dev-Arthur/Tessia–E3/main/assets/banner.png)
 
   
 
