@@ -27,7 +27,7 @@ A fun and engaging messenger bot for SimSim talk and entertainment, built with N
 
   
 
--  [What is NexaSim V2?](#what-is-nexasim-v2)
+-  [What is Tessia–E3?](#what-is-nexasim-v2)
 
 -  [How It Works](#how-it-works)
 
@@ -55,11 +55,9 @@ A fun and engaging messenger bot for SimSim talk and entertainment, built with N
 
   
 
-## What is NexaSim V2?
+## What is a Tessia–E3?
 
-  
-
-NexaSim V2 is a messenger bot designed for fun and SimSim talk, allowing users to engage in entertaining conversations and perform various tasks like downloading videos, generating images, and interacting with AI. I created this bot to bring joy and utility to messenger group chats, making conversations more interactive and enjoyable for everyone.
+ Tessia–E3is a messenger bot designed for fun and SimSim talk, allowing users to engage in entertaining conversations and perform various tasks like downloading videos, generating images, and interacting with AI. I created this bot to bring joy and utility to messenger group chats, making conversations more interactive and enjoyable for everyone.
 
   
 
@@ -71,7 +69,7 @@ NexaSim V2 is a messenger bot designed for fun and SimSim talk, allowing users t
 
   
 
-NexaSim V2 is built using Node.js and integrates with the Facebook Messenger API. It listens for messages, processes commands, and responds accordingly. Here's a simple overview of how it works:
+Tessia–E3 is built using Node.js and integrates with the Facebook Messenger API. It listens for messages, processes commands, and responds accordingly. Here's a simple overview of how it works:
 
   
 
@@ -127,7 +125,7 @@ Your bot will now connect to your MongoDB database for storing user data, econom
 
   
 
-NexaSim V2 allows you to create various types of commands. Below are examples of a simple command, an admin command, and an economy command.
+Tessia–E3 allows you to create various types of commands. Below are examples of a simple command, an admin command, and an economy command.
 
   
 
@@ -341,7 +339,7 @@ For support or to connect with the community, reach out via:
 
 -  **Instagram**: [My instagram](https://instagram.com/hridoy.py)
 
--  **GitHub**: [Visit the Repository](https://github.com/1dev-hridoy/NexaSim-v2)
+-  **GitHub**: [Visit the Repository](https://github.com/arnob9593/Nexasim-v2)
 
   
 
