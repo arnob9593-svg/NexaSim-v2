@@ -1,9 +1,9 @@
 
-# NexaSim V2 - Bot Chat Messenger
+# Tessia–E3 - Bot Chat Messenger
 
   
 
-![NexaSim V2 Banner](https://raw.githubusercontent.com/1dev-hridoy/NexaSim-v2/main/assets/banner.png)
+![Tessia–E3 Banner](https://raw.githubusercontent.com/1dev-Arthur/Tessia–E3/main/assets/banner.png)
 
   
 
@@ -12,7 +12,7 @@ A fun and engaging messenger bot for SimSim talk and entertainment, built with N
   
 
 ![Node.js](https://img.shields.io/badge/Node.js-Supported-brightgreen)
-![Repo Size](https://img.shields.io/github/repo-size/1dev-hridoy/NexaSim-v2)
+![Repo Size](https://img.shields.io/github/repo-size/1dev-Arthur/Tessia–E3)
 ![Code Version](https://img.shields.io/badge/Code_Version-1.0.0-yellow)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
